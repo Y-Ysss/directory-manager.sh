@@ -1,0 +1,11 @@
+# Direcotories
+
+data:
+  - 
+    name: Root
+    description: Root directory
+    path: /
+  - 
+    name: WorkSpace
+    description: 
+    path: /Dev/Workspace
