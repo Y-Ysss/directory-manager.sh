@@ -1,13 +1,13 @@
 # Directory Manager
 
 ## Description
-Directory Bookmark Manager for easy access to directories on the bash terminal.
+Directory Bookmark Manager for easy access to directories on the bash.
 
 ## Getting Started
 Copy the `script/yaml.sh` file and add alias to `.bash_aliases` file.
 
 ```sh
-alias dm='{in each environment}/dirmages.sh'
+alias dirmages='{in each environment}/dirmages.sh'
 ```
 
 ## Attributions
@@ -20,4 +20,4 @@ alias dm='{in each environment}/dirmages.sh'
 This software is released under the MIT License.
 MIT License Copyright (c) 2021 Y-Ysss
 
-This software includes codes there are distributed in the Apache License 2.0.
+This software includes codes there are distributed in the MIT License.
